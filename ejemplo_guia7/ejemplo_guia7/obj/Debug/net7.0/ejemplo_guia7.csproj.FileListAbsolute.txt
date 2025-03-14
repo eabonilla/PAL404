@@ -1,0 +1,14 @@
+D:\UDB\2025\PAL\ejemplos clase\PAL404\ejemplo_guia7\ejemplo_guia7\obj\Debug\net7.0\ejemplo_guia7.GeneratedMSBuildEditorConfig.editorconfig
+D:\UDB\2025\PAL\ejemplos clase\PAL404\ejemplo_guia7\ejemplo_guia7\obj\Debug\net7.0\ejemplo_guia7.AssemblyInfoInputs.cache
+D:\UDB\2025\PAL\ejemplos clase\PAL404\ejemplo_guia7\ejemplo_guia7\obj\Debug\net7.0\ejemplo_guia7.AssemblyInfo.cs
+D:\UDB\2025\PAL\ejemplos clase\PAL404\ejemplo_guia7\ejemplo_guia7\obj\Debug\net7.0\ejemplo_guia7.csproj.CoreCompileInputs.cache
+D:\UDB\2025\PAL\ejemplos clase\PAL404\ejemplo_guia7\ejemplo_guia7\bin\Debug\net7.0\ejemplo_guia7.exe
+D:\UDB\2025\PAL\ejemplos clase\PAL404\ejemplo_guia7\ejemplo_guia7\bin\Debug\net7.0\ejemplo_guia7.deps.json
+D:\UDB\2025\PAL\ejemplos clase\PAL404\ejemplo_guia7\ejemplo_guia7\bin\Debug\net7.0\ejemplo_guia7.runtimeconfig.json
+D:\UDB\2025\PAL\ejemplos clase\PAL404\ejemplo_guia7\ejemplo_guia7\bin\Debug\net7.0\ejemplo_guia7.dll
+D:\UDB\2025\PAL\ejemplos clase\PAL404\ejemplo_guia7\ejemplo_guia7\bin\Debug\net7.0\ejemplo_guia7.pdb
+D:\UDB\2025\PAL\ejemplos clase\PAL404\ejemplo_guia7\ejemplo_guia7\obj\Debug\net7.0\ejemplo_guia7.dll
+D:\UDB\2025\PAL\ejemplos clase\PAL404\ejemplo_guia7\ejemplo_guia7\obj\Debug\net7.0\refint\ejemplo_guia7.dll
+D:\UDB\2025\PAL\ejemplos clase\PAL404\ejemplo_guia7\ejemplo_guia7\obj\Debug\net7.0\ejemplo_guia7.pdb
+D:\UDB\2025\PAL\ejemplos clase\PAL404\ejemplo_guia7\ejemplo_guia7\obj\Debug\net7.0\ejemplo_guia7.genruntimeconfig.cache
+D:\UDB\2025\PAL\ejemplos clase\PAL404\ejemplo_guia7\ejemplo_guia7\obj\Debug\net7.0\ref\ejemplo_guia7.dll
